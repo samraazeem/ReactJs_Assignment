@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "blogID": 1,
+        "comment": "This is comment 1",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "blogID": 1,
+        "comment": "This is comment 2",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "blogID": 2,
+        "comment": "This is comment 1",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "blogID": 2,
+        "comment": "This is comment 2",
+        "isActive": false
+    }
+]
